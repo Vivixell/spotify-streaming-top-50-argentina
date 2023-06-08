@@ -1,0 +1,951 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,release_date,is_explicit,album_cover_url
+18-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+18-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+18-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+18-05-23,4,Classy 101,Feid & Young Miko,95,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+18-05-23,5,un x100to,Grupo Frontera & Bad Bunny,99,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+18-05-23,6,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+18-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+18-05-23,8,Ella Baila Sola,Eslabon Armado,89,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+18-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+18-05-23,10,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+18-05-23,11,ADIÓS,Maria Becerra,80,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+18-05-23,12,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+18-05-23,13,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+18-05-23,14,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,75,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+18-05-23,15,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+18-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+18-05-23,17,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+18-05-23,18,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+18-05-23,19,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+18-05-23,20,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+18-05-23,21,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+18-05-23,22,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+18-05-23,23,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+18-05-23,24,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+18-05-23,25,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+18-05-23,26,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+18-05-23,27,AL BORDE,Milo j,79,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+18-05-23,28,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+18-05-23,29,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+18-05-23,30,Acróstico,Shakira,81,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+18-05-23,31,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+18-05-23,32,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+18-05-23,33,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+18-05-23,34,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+18-05-23,35,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+18-05-23,36,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+18-05-23,37,Milagrosa,Milo j,82,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+18-05-23,38,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,95,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+18-05-23,39,aPoLLo13,Duki,78,160547,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736ec15769b079e2848fe92302
+18-05-23,40,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+18-05-23,41,Niña Bonita,Feid & Sean Paul,88,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+18-05-23,42,qué le pasa conmigo?,Nicki Nicole & Rels B,84,167251,single,1,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273878213cd3e852b72b1cf7598
+18-05-23,43,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+18-05-23,44,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+18-05-23,45,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+18-05-23,46,Lisa,Young Miko,86,159306,single,1,03-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731fcf8dc413896f0fb5749141
+18-05-23,47,Uno los Dos,Miranda!,69,215248,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+18-05-23,48,PLAYA DEL INGLÉS,Quevedo,84,237525,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+18-05-23,49,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,93,198937,single,1,06-07-22,FALSE,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf
+18-05-23,50,MORNING,Milo j,79,123525,single,1,23-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732f1f92133b5800ff78e721d6
+19-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+19-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+19-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+19-05-23,4,Classy 101,Feid & Young Miko,95,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+19-05-23,5,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+19-05-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+19-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+19-05-23,8,Ella Baila Sola,Eslabon Armado,89,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+19-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+19-05-23,10,ADIÓS,Maria Becerra,80,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+19-05-23,11,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+19-05-23,12,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,76,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+19-05-23,13,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+19-05-23,14,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+19-05-23,15,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+19-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+19-05-23,17,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+19-05-23,18,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+19-05-23,19,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+19-05-23,20,Acróstico,Shakira,83,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+19-05-23,21,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+19-05-23,22,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+19-05-23,23,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+19-05-23,24,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+19-05-23,25,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+19-05-23,26,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+19-05-23,27,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+19-05-23,28,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+19-05-23,29,AL BORDE,Milo j,79,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+19-05-23,30,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+19-05-23,31,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+19-05-23,32,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+19-05-23,33,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+19-05-23,34,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+19-05-23,35,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+19-05-23,36,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+19-05-23,37,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,95,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+19-05-23,38,Milagrosa,Milo j,82,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+19-05-23,39,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+19-05-23,40,aPoLLo13,Duki,78,160547,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736ec15769b079e2848fe92302
+19-05-23,41,Niña Bonita,Feid & Sean Paul,88,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+19-05-23,42,qué le pasa conmigo?,Nicki Nicole & Rels B,84,167251,single,1,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273878213cd3e852b72b1cf7598
+19-05-23,43,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+19-05-23,44,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+19-05-23,45,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+19-05-23,46,Uno los Dos,Miranda!,69,215248,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+19-05-23,47,Lisa,Young Miko,86,159306,single,1,03-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731fcf8dc413896f0fb5749141
+19-05-23,48,PLAYA DEL INGLÉS,Quevedo,84,237525,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+19-05-23,49,"Quevedo: Bzrp Music Sessions, Vol. 52",Bizarrap & Quevedo,93,198937,single,1,06-07-22,FALSE,https://i.scdn.co/image/ab67616d0000b2731630dd349221a35ce03a0ccf
+19-05-23,50,MORNING,Milo j,79,123525,single,1,23-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732f1f92133b5800ff78e721d6
+20-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+20-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+20-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+20-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+20-05-23,5,Classy 101,Feid & Young Miko,95,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+20-05-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+20-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+20-05-23,8,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+20-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+20-05-23,10,ADIÓS,Maria Becerra,80,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+20-05-23,11,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,77,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+20-05-23,12,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+20-05-23,13,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+20-05-23,14,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+20-05-23,15,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+20-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+20-05-23,17,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+20-05-23,18,Acróstico,Shakira,85,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+20-05-23,19,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+20-05-23,20,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+20-05-23,21,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+20-05-23,22,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+20-05-23,23,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+20-05-23,24,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+20-05-23,25,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+20-05-23,26,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+20-05-23,27,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+20-05-23,28,DISPARA ***,Nicki Nicole & Milo j,63,143935,single,1,17-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736d687c29d1c3f37101a14ea3
+20-05-23,29,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+20-05-23,30,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+20-05-23,31,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+20-05-23,32,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+20-05-23,33,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+20-05-23,34,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+20-05-23,35,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+20-05-23,36,qué le pasa conmigo?,Nicki Nicole & Rels B,84,167251,single,1,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273878213cd3e852b72b1cf7598
+20-05-23,37,Milagrosa,Milo j,82,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+20-05-23,38,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,95,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+20-05-23,39,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+20-05-23,40,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+20-05-23,41,Niña Bonita,Feid & Sean Paul,88,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+20-05-23,42,aPoLLo13,Duki,78,160547,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736ec15769b079e2848fe92302
+20-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+20-05-23,44,Dale Mecha,Mesita,68,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+20-05-23,45,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+20-05-23,46,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+20-05-23,47,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+20-05-23,48,Lisa,Young Miko,86,159306,single,1,03-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731fcf8dc413896f0fb5749141
+20-05-23,49,Uno los Dos,Miranda!,69,215248,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+20-05-23,50,PLAYA DEL INGLÉS,Quevedo,84,237525,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+21-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+21-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+21-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+21-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+21-05-23,5,Classy 101,Feid & Young Miko,95,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+21-05-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+21-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+21-05-23,8,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+21-05-23,9,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+21-05-23,10,ADIÓS,Maria Becerra,80,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+21-05-23,11,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,77,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+21-05-23,12,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+21-05-23,13,Me Enteré,Tiago PZK & TINI,67,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+21-05-23,14,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+21-05-23,15,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+21-05-23,16,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+21-05-23,17,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+21-05-23,18,Acróstico,Shakira,86,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+21-05-23,19,WHERE SHE GOES,Bad Bunny,82,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+21-05-23,20,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+21-05-23,21,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+21-05-23,22,DISPARA ***,Nicki Nicole,56,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+21-05-23,23,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+21-05-23,24,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+21-05-23,25,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+21-05-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+21-05-23,27,Dale Mecha,Mesita,69,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+21-05-23,28,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+21-05-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+21-05-23,30,qué le pasa conmigo?,Nicki Nicole,53,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+21-05-23,31,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+21-05-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+21-05-23,33,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+21-05-23,34,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+21-05-23,35,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+21-05-23,36,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+21-05-23,37,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+21-05-23,38,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+21-05-23,39,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+21-05-23,40,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,57,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+21-05-23,41,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,95,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+21-05-23,42,Milagrosa,Milo j,82,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+21-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+21-05-23,44,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+21-05-23,45,CAEN LAS ESTRELLAS,Nicki Nicole,57,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+21-05-23,46,aPoLLo13,Duki,78,160547,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736ec15769b079e2848fe92302
+21-05-23,47,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+21-05-23,48,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+21-05-23,49,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+21-05-23,50,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+22-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+22-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+22-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+22-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+22-05-23,5,Classy 101,Feid & Young Miko,95,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+22-05-23,6,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+22-05-23,7,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+22-05-23,8,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+22-05-23,9,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,78,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+22-05-23,10,ADIÓS,Maria Becerra,80,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+22-05-23,11,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+22-05-23,12,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+22-05-23,13,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+22-05-23,14,Me Enteré,Tiago PZK & TINI,71,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+22-05-23,15,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+22-05-23,16,Acróstico,Shakira,87,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+22-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+22-05-23,18,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+22-05-23,19,Dale Mecha,Mesita,70,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+22-05-23,20,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+22-05-23,21,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+22-05-23,22,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+22-05-23,23,WHERE SHE GOES,Bad Bunny,86,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+22-05-23,24,DISPARA ***,Nicki Nicole,60,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+22-05-23,25,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+22-05-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+22-05-23,27,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+22-05-23,28,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+22-05-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+22-05-23,30,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+22-05-23,31,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,62,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+22-05-23,32,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+22-05-23,33,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+22-05-23,34,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+22-05-23,35,qué le pasa conmigo?,Nicki Nicole,56,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+22-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+22-05-23,37,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+22-05-23,38,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+22-05-23,39,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+22-05-23,40,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+22-05-23,41,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+22-05-23,42,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+22-05-23,43,Milagrosa,Milo j,81,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+22-05-23,44,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+22-05-23,45,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+22-05-23,46,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+22-05-23,47,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+22-05-23,48,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+22-05-23,49,aPoLLo13,Duki,78,160547,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736ec15769b079e2848fe92302
+22-05-23,50,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+23-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+23-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+23-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+23-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+23-05-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+23-05-23,6,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+23-05-23,7,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+23-05-23,8,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+23-05-23,9,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,78,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+23-05-23,10,Me Enteré,Tiago PZK & TINI,73,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+23-05-23,11,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+23-05-23,12,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+23-05-23,13,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+23-05-23,14,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+23-05-23,15,Dale Mecha,Mesita,71,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+23-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+23-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+23-05-23,18,Acróstico,Shakira,88,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+23-05-23,19,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+23-05-23,20,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+23-05-23,21,WHERE SHE GOES,Bad Bunny,88,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+23-05-23,22,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+23-05-23,23,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+23-05-23,24,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+23-05-23,25,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+23-05-23,26,DISPARA ***,Nicki Nicole,62,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+23-05-23,27,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+23-05-23,28,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+23-05-23,29,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+23-05-23,30,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,65,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+23-05-23,31,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+23-05-23,32,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+23-05-23,33,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+23-05-23,34,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,78,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+23-05-23,35,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+23-05-23,36,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+23-05-23,37,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+23-05-23,38,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+23-05-23,39,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+23-05-23,40,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+23-05-23,41,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+23-05-23,42,qué le pasa conmigo?,Nicki Nicole,59,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+23-05-23,43,Milagrosa,Milo j,81,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+23-05-23,44,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+23-05-23,45,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+23-05-23,46,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+23-05-23,47,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+23-05-23,48,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+23-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+23-05-23,50,Le doy perreo,Callejero Fino,74,138979,single,1,24-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273a4b11d116ca88fa87ee3123f
+24-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+24-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+24-05-23,3,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+24-05-23,4,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+24-05-23,5,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+24-05-23,6,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+24-05-23,7,Me Enteré,Tiago PZK & TINI,75,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+24-05-23,8,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,79,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+24-05-23,9,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+24-05-23,10,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+24-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+24-05-23,12,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+24-05-23,13,Rara Vez,Taiu & Milo j,92,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+24-05-23,14,Acróstico,Shakira,88,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+24-05-23,15,WHERE SHE GOES,Bad Bunny,89,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+24-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+24-05-23,17,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+24-05-23,18,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+24-05-23,19,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+24-05-23,20,Dale Mecha,Mesita,72,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+24-05-23,21,DISPARA ***,Nicki Nicole,64,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+24-05-23,22,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+24-05-23,23,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+24-05-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+24-05-23,25,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,67,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+24-05-23,26,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+24-05-23,27,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+24-05-23,28,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+24-05-23,29,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+24-05-23,30,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+24-05-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+24-05-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+24-05-23,33,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+24-05-23,34,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+24-05-23,35,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+24-05-23,36,qué le pasa conmigo?,Nicki Nicole,61,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+24-05-23,37,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+24-05-23,38,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+24-05-23,39,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+24-05-23,40,La Bachata,Manuel Turizo,86,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+24-05-23,41,Milagrosa,Milo j,81,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+24-05-23,42,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+24-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+24-05-23,44,CAEN LAS ESTRELLAS,Nicki Nicole,64,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+24-05-23,45,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+24-05-23,46,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+24-05-23,47,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+24-05-23,48,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+24-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+24-05-23,50,Niña Bonita,Feid & Sean Paul,88,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+25-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+25-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+25-05-23,3,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+25-05-23,4,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+25-05-23,5,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+25-05-23,6,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,84,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+25-05-23,7,Me Enteré,Tiago PZK & TINI,77,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+25-05-23,8,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,79,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+25-05-23,9,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+25-05-23,10,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+25-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+25-05-23,12,Ella Baila Sola,Eslabon Armado,90,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+25-05-23,13,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+25-05-23,14,Acróstico,Shakira,89,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+25-05-23,15,WHERE SHE GOES,Bad Bunny,91,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+25-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+25-05-23,17,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+25-05-23,18,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+25-05-23,19,Dale Mecha,Mesita,72,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+25-05-23,20,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+25-05-23,21,DISPARA ***,Nicki Nicole,66,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+25-05-23,22,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+25-05-23,23,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+25-05-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+25-05-23,25,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+25-05-23,26,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+25-05-23,27,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,68,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+25-05-23,28,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+25-05-23,29,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+25-05-23,30,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+25-05-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+25-05-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+25-05-23,33,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+25-05-23,34,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+25-05-23,35,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+25-05-23,36,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+25-05-23,37,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+25-05-23,38,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+25-05-23,39,qué le pasa conmigo?,Nicki Nicole,63,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+25-05-23,40,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+25-05-23,41,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+25-05-23,42,Milagrosa,Milo j,81,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+25-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+25-05-23,44,CAEN LAS ESTRELLAS,Nicki Nicole,65,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+25-05-23,45,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+25-05-23,46,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+25-05-23,47,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+25-05-23,48,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+25-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+25-05-23,50,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+26-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+26-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+26-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+26-05-23,4,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+26-05-23,5,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+26-05-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+26-05-23,7,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,80,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+26-05-23,8,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+26-05-23,9,Me Enteré,Tiago PZK & TINI,78,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+26-05-23,10,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+26-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+26-05-23,12,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+26-05-23,13,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+26-05-23,14,Acróstico,Shakira,89,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+26-05-23,15,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+26-05-23,16,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+26-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+26-05-23,18,WHERE SHE GOES,Bad Bunny,92,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+26-05-23,19,Dale Mecha,Mesita,73,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+26-05-23,20,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+26-05-23,21,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+26-05-23,22,DISPARA ***,Nicki Nicole,67,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+26-05-23,23,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+26-05-23,24,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+26-05-23,25,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+26-05-23,26,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+26-05-23,27,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+26-05-23,28,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+26-05-23,29,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,69,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+26-05-23,30,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+26-05-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+26-05-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+26-05-23,33,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+26-05-23,34,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+26-05-23,35,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+26-05-23,36,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+26-05-23,37,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+26-05-23,38,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+26-05-23,39,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+26-05-23,40,qué le pasa conmigo?,Nicki Nicole,65,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+26-05-23,41,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+26-05-23,42,Milagrosa,Milo j,81,140288,single,1,16-08-22,TRUE,https://i.scdn.co/image/ab67616d0000b27330e4bbfecc4cfa5b5d6cc14d
+26-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+26-05-23,44,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+26-05-23,45,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+26-05-23,46,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+26-05-23,47,CAEN LAS ESTRELLAS,Nicki Nicole,66,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+26-05-23,48,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+26-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+26-05-23,50,CHORRITO PA LAS ANIMAS,Feid,91,168133,single,6,02-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cc7b0d6a82846cd8b158f99
+27-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+27-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+27-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+27-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+27-05-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+27-05-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+27-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+27-05-23,8,Me Enteré,Tiago PZK & TINI,79,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+27-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+27-05-23,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,80,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+27-05-23,11,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+27-05-23,12,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+27-05-23,13,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+27-05-23,14,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+27-05-23,15,Dale Mecha,Mesita,74,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+27-05-23,16,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+27-05-23,17,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+27-05-23,18,Acróstico,Shakira,90,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+27-05-23,19,DISPARA ***,Nicki Nicole,68,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+27-05-23,20,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+27-05-23,21,WHERE SHE GOES,Bad Bunny,92,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+27-05-23,22,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+27-05-23,23,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+27-05-23,24,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+27-05-23,25,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+27-05-23,26,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,70,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+27-05-23,27,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+27-05-23,28,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+27-05-23,29,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+27-05-23,30,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+27-05-23,31,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+27-05-23,32,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+27-05-23,33,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+27-05-23,34,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+27-05-23,35,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+27-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+27-05-23,37,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+27-05-23,38,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+27-05-23,39,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+27-05-23,40,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+27-05-23,41,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+27-05-23,42,Milagrosa Tiktok,scuboom,0,137522,single,1,09-02-10,TRUE,https://i.scdn.co/image/ab67616d0000b273ac6aa3a6e8eb053fed123ef4
+27-05-23,43,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+27-05-23,44,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+27-05-23,45,qué le pasa conmigo?,Nicki Nicole,66,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+27-05-23,46,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+27-05-23,47,CAEN LAS ESTRELLAS,Nicki Nicole,67,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+27-05-23,48,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+27-05-23,49,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+27-05-23,50,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+28-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+28-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+28-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+28-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+28-05-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+28-05-23,6,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+28-05-23,7,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+28-05-23,8,Me Enteré,Tiago PZK & TINI,79,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+28-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+28-05-23,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,80,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+28-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+28-05-23,12,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+28-05-23,13,Dale Mecha,Mesita,74,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+28-05-23,14,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+28-05-23,15,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+28-05-23,16,DISPARA ***,Nicki Nicole,70,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+28-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+28-05-23,18,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+28-05-23,19,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+28-05-23,20,WHERE SHE GOES,Bad Bunny,93,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+28-05-23,21,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+28-05-23,22,Acróstico,Shakira,90,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+28-05-23,23,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+28-05-23,24,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+28-05-23,25,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,71,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+28-05-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+28-05-23,27,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+28-05-23,28,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+28-05-23,29,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+28-05-23,30,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+28-05-23,31,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+28-05-23,32,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+28-05-23,33,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+28-05-23,34,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+28-05-23,35,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+28-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+28-05-23,37,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+28-05-23,38,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+28-05-23,39,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+28-05-23,40,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+28-05-23,41,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+28-05-23,42,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+28-05-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+28-05-23,44,qué le pasa conmigo?,Nicki Nicole,67,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+28-05-23,45,CAEN LAS ESTRELLAS,Nicki Nicole,68,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+28-05-23,46,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+28-05-23,47,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+28-05-23,48,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+28-05-23,49,Milagrosa Tiktok,scuboom,34,137522,single,1,09-02-10,TRUE,https://i.scdn.co/image/ab67616d0000b273ac6aa3a6e8eb053fed123ef4
+28-05-23,50,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+29-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+29-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+29-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+29-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+29-05-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+29-05-23,6,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+29-05-23,7,Me Enteré,Tiago PZK & TINI,80,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+29-05-23,8,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+29-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+29-05-23,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,81,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+29-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+29-05-23,12,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+29-05-23,13,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+29-05-23,14,Dale Mecha,Mesita,75,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+29-05-23,15,DISPARA ***,Nicki Nicole,71,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+29-05-23,16,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+29-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+29-05-23,18,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+29-05-23,19,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+29-05-23,20,WHERE SHE GOES,Bad Bunny,94,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+29-05-23,21,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+29-05-23,22,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,72,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+29-05-23,23,Acróstico,Shakira,91,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+29-05-23,24,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+29-05-23,25,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+29-05-23,26,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+29-05-23,27,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+29-05-23,28,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+29-05-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+29-05-23,30,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+29-05-23,31,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+29-05-23,32,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+29-05-23,33,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+29-05-23,34,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+29-05-23,35,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+29-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+29-05-23,37,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+29-05-23,38,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+29-05-23,39,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+29-05-23,40,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+29-05-23,41,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+29-05-23,42,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+29-05-23,43,CAEN LAS ESTRELLAS,Nicki Nicole,69,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+29-05-23,44,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+29-05-23,45,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+29-05-23,46,qué le pasa conmigo?,Nicki Nicole,68,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+29-05-23,47,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+29-05-23,48,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+29-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+29-05-23,50,Tu Turrito,Rei & Callejero Fino,76,164701,single,1,04-05-22,FALSE,https://i.scdn.co/image/ab67616d0000b2734aeb7bab88632a5e080c36fb
+30-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+30-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+30-05-23,3,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+30-05-23,4,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+30-05-23,5,Me Enteré,Tiago PZK & TINI,81,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+30-05-23,6,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+30-05-23,7,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+30-05-23,8,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+30-05-23,9,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+30-05-23,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,81,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+30-05-23,11,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+30-05-23,12,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+30-05-23,13,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+30-05-23,14,DISPARA ***,Nicki Nicole,72,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+30-05-23,15,Dale Mecha,Mesita,75,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+30-05-23,16,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+30-05-23,17,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+30-05-23,18,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+30-05-23,19,WHERE SHE GOES,Bad Bunny,94,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+30-05-23,20,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+30-05-23,21,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,73,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+30-05-23,22,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+30-05-23,23,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+30-05-23,24,Acróstico,Shakira,91,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+30-05-23,25,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+30-05-23,26,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+30-05-23,27,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+30-05-23,28,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+30-05-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+30-05-23,30,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+30-05-23,31,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+30-05-23,32,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+30-05-23,33,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+30-05-23,34,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+30-05-23,35,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+30-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+30-05-23,37,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+30-05-23,38,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+30-05-23,39,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+30-05-23,40,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+30-05-23,41,CAEN LAS ESTRELLAS,Nicki Nicole,69,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+30-05-23,42,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+30-05-23,43,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+30-05-23,44,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+30-05-23,45,Otro Día Más,Ke Personajes,76,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+30-05-23,46,qué le pasa conmigo?,Nicki Nicole,68,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+30-05-23,47,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+30-05-23,48,Tu Turrito,Rei & Callejero Fino,76,164701,single,1,04-05-22,FALSE,https://i.scdn.co/image/ab67616d0000b2734aeb7bab88632a5e080c36fb
+30-05-23,49,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+30-05-23,50,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+31-05-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+31-05-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+31-05-23,3,Me Enteré,Tiago PZK & TINI,81,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+31-05-23,4,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+31-05-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+31-05-23,6,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+31-05-23,7,DISPARA ***,Nicki Nicole,73,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+31-05-23,8,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+31-05-23,9,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,81,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+31-05-23,10,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+31-05-23,11,Ella Baila Sola,Eslabon Armado,91,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+31-05-23,12,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+31-05-23,13,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+31-05-23,14,WHERE SHE GOES,Bad Bunny,94,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+31-05-23,15,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+31-05-23,16,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,73,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+31-05-23,17,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+31-05-23,18,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+31-05-23,19,Dale Mecha,Mesita,75,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+31-05-23,20,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+31-05-23,21,Acróstico,Shakira,91,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+31-05-23,22,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+31-05-23,23,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+31-05-23,24,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+31-05-23,25,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+31-05-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+31-05-23,27,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+31-05-23,28,CAEN LAS ESTRELLAS,Nicki Nicole,70,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+31-05-23,29,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+31-05-23,30,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+31-05-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+31-05-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+31-05-23,33,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+31-05-23,34,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+31-05-23,35,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+31-05-23,36,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+31-05-23,37,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+31-05-23,38,qué le pasa conmigo?,Nicki Nicole,69,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+31-05-23,39,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+31-05-23,40,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+31-05-23,41,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+31-05-23,42,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+31-05-23,43,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+31-05-23,44,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+31-05-23,45,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+31-05-23,46,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+31-05-23,47,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+31-05-23,48,8:00 AM,Nicki Nicole,70,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+31-05-23,49,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+31-05-23,50,PARA AMARTE A TI,KHEA,61,215156,album,13,25-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d347cdec6f49fbad12edb79d
+01-06-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+01-06-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+01-06-23,3,Me Enteré,Tiago PZK & TINI,82,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+01-06-23,4,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+01-06-23,5,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+01-06-23,6,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+01-06-23,7,DISPARA ***,Nicki Nicole,73,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+01-06-23,8,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+01-06-23,9,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,81,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+01-06-23,10,Ella Baila Sola,Eslabon Armado,92,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+01-06-23,11,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+01-06-23,12,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+01-06-23,13,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+01-06-23,14,WHERE SHE GOES,Bad Bunny,95,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+01-06-23,15,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+01-06-23,16,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,74,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+01-06-23,17,Perfecta (Versión 2023),Miranda!,75,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+01-06-23,18,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+01-06-23,19,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+01-06-23,20,Dale Mecha,Mesita,76,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+01-06-23,21,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+01-06-23,22,Acróstico,Shakira,91,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+01-06-23,23,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+01-06-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+01-06-23,25,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+01-06-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+01-06-23,27,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+01-06-23,28,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+01-06-23,29,CAEN LAS ESTRELLAS,Nicki Nicole,71,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+01-06-23,30,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+01-06-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+01-06-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+01-06-23,33,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+01-06-23,34,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+01-06-23,35,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+01-06-23,36,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+01-06-23,37,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+01-06-23,38,qué le pasa conmigo?,Nicki Nicole,70,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+01-06-23,39,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+01-06-23,40,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+01-06-23,41,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+01-06-23,42,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+01-06-23,43,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+01-06-23,44,8:00 AM,Nicki Nicole,71,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+01-06-23,45,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+01-06-23,46,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+01-06-23,47,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+01-06-23,48,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+01-06-23,49,PARA AMARTE A TI,KHEA,62,215156,album,13,25-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d347cdec6f49fbad12edb79d
+01-06-23,50,PUNTO G,Quevedo,86,151324,album,16,20-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b273efc1b8f6beda4abe848a84e0
+02-06-23,1,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+02-06-23,2,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+02-06-23,3,Me Enteré,Tiago PZK & TINI,82,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+02-06-23,4,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+02-06-23,5,Ella Baila Sola,Eslabon Armado,92,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+02-06-23,6,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+02-06-23,7,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+02-06-23,8,DISPARA ***,Nicki Nicole,74,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+02-06-23,9,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,81,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+02-06-23,10,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+02-06-23,11,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+02-06-23,12,ADIÓS,Maria Becerra,81,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+02-06-23,13,WHERE SHE GOES,Bad Bunny,95,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+02-06-23,14,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+02-06-23,15,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,75,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+02-06-23,16,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+02-06-23,17,Perfecta (Versión 2023),Miranda!,76,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+02-06-23,18,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+02-06-23,19,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+02-06-23,20,Dale Mecha,Mesita,76,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+02-06-23,21,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+02-06-23,22,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+02-06-23,23,Acróstico,Shakira,91,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+02-06-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+02-06-23,25,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+02-06-23,26,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+02-06-23,27,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+02-06-23,28,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+02-06-23,29,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+02-06-23,30,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+02-06-23,31,CAEN LAS ESTRELLAS,Nicki Nicole,71,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+02-06-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+02-06-23,33,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+02-06-23,34,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+02-06-23,35,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+02-06-23,36,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+02-06-23,37,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+02-06-23,38,qué le pasa conmigo?,Nicki Nicole,71,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+02-06-23,39,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+02-06-23,40,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+02-06-23,41,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+02-06-23,42,8:00 AM,Nicki Nicole,72,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+02-06-23,43,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+02-06-23,44,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+02-06-23,45,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+02-06-23,46,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+02-06-23,47,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+02-06-23,48,Dos Días en la Vida - EADDA9223 (feat. Lali & Nicki Nicole),Fito Paez,53,248881,album,14,30-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736e6bb59de58d4d94d34e7c61
+02-06-23,49,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+02-06-23,50,PARA AMARTE A TI,KHEA,63,215156,album,13,25-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d347cdec6f49fbad12edb79d
+03-06-23,1,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,82,188361,single,1,01-06-23,TRUE,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81
+03-06-23,2,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+03-06-23,3,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+03-06-23,4,Ella Baila Sola,Eslabon Armado,92,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+03-06-23,5,Me Enteré,Tiago PZK & TINI,82,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+03-06-23,6,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+03-06-23,7,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+03-06-23,8,DISPARA ***,Nicki Nicole,75,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+03-06-23,9,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+03-06-23,10,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,82,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+03-06-23,11,WHERE SHE GOES,Bad Bunny,96,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+03-06-23,12,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+03-06-23,13,ADIÓS,Maria Becerra,82,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+03-06-23,14,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+03-06-23,15,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,75,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+03-06-23,16,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+03-06-23,17,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+03-06-23,18,Perfecta (Versión 2023),Miranda!,76,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+03-06-23,19,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+03-06-23,20,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+03-06-23,21,Dale Mecha,Mesita,76,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+03-06-23,22,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+03-06-23,23,Acróstico,Shakira,92,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+03-06-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+03-06-23,25,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+03-06-23,26,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+03-06-23,27,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+03-06-23,28,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+03-06-23,29,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+03-06-23,30,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+03-06-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+03-06-23,32,CAEN LAS ESTRELLAS,Nicki Nicole,72,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+03-06-23,33,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+03-06-23,34,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+03-06-23,35,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+03-06-23,36,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+03-06-23,37,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+03-06-23,38,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,87,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+03-06-23,39,qué le pasa conmigo?,Nicki Nicole,71,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+03-06-23,40,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+03-06-23,41,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+03-06-23,42,8:00 AM,Nicki Nicole,72,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+03-06-23,43,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+03-06-23,44,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+03-06-23,45,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+03-06-23,46,Coco Chanel,Eladio Carrion,92,208125,album,18,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273fc8563c0dc75d79e73c2dca0
+03-06-23,47,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+03-06-23,48,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+03-06-23,49,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+03-06-23,50,Luck Ra | Mission 15,Alan Gomez & Luck Ra,66,133284,single,1,17-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462
+04-06-23,1,Los del Espacio,LIT killah,72,338000,single,1,01-06-23,FALSE,https://i.scdn.co/image/ab67616d0000b27352c8b9dffa4fcdb36e30eea2
+04-06-23,2,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,86,188361,single,1,01-06-23,TRUE,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81
+04-06-23,3,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,89,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+04-06-23,4,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+04-06-23,5,Me Enteré,Tiago PZK & TINI,83,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+04-06-23,6,Ella Baila Sola,Eslabon Armado,92,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+04-06-23,7,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+04-06-23,8,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+04-06-23,9,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+04-06-23,10,DISPARA ***,Nicki Nicole,75,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+04-06-23,11,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,82,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+04-06-23,12,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+04-06-23,13,WHERE SHE GOES,Bad Bunny,96,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+04-06-23,14,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+04-06-23,15,ADIÓS,Maria Becerra,82,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+04-06-23,16,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,76,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+04-06-23,17,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+04-06-23,18,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+04-06-23,19,Dale Mecha,Mesita,76,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+04-06-23,20,Perfecta (Versión 2023),Miranda!,76,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+04-06-23,21,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+04-06-23,22,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+04-06-23,23,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+04-06-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+04-06-23,25,Acróstico,Shakira,92,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+04-06-23,26,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+04-06-23,27,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+04-06-23,28,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+04-06-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+04-06-23,30,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+04-06-23,31,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+04-06-23,32,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+04-06-23,33,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+04-06-23,34,CAEN LAS ESTRELLAS,Nicki Nicole,72,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+04-06-23,35,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+04-06-23,36,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+04-06-23,37,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+04-06-23,38,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+04-06-23,39,Luck Ra | Mission 15,Alan Gomez & Luck Ra,67,133284,single,1,17-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462
+04-06-23,40,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+04-06-23,41,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+04-06-23,42,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+04-06-23,43,8:00 AM,Nicki Nicole,73,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+04-06-23,44,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+04-06-23,45,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+04-06-23,46,qué le pasa conmigo?,Nicki Nicole,71,167251,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+04-06-23,47,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
+04-06-23,48,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+04-06-23,49,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+04-06-23,50,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+05-06-23,1,Los del Espacio,LIT killah,77,338000,single,1,01-06-23,FALSE,https://i.scdn.co/image/ab67616d0000b27352c8b9dffa4fcdb36e30eea2
+05-06-23,2,Un Finde | CROSSOVER #2,Big One & FMK & Ke Personajes,90,162500,single,1,04-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273fc9ce77ab8fcd9eadda3acd3
+05-06-23,3,"Peso Pluma: Bzrp Music Sessions, Vol. 55",Bizarrap & Peso Pluma,89,188361,single,1,01-06-23,TRUE,https://i.scdn.co/image/ab67616d0000b27315583045b2fdb7d7bab10e81
+05-06-23,4,La Bebe - Remix,Yng Lvcas & Peso Pluma,99,234352,single,2,17-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273a04be3ad7c8c67f4109111a9
+05-06-23,5,Me Enteré,Tiago PZK & TINI,83,182075,single,1,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2735d78fa55507610429ba13cb6
+05-06-23,6,Ella Baila Sola,Eslabon Armado,92,165671,album,16,28-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273dfddf1cb31b85a6d28b7d91f
+05-06-23,7,M.A - Remix,BM & Callejero Fino & La Joaqui,85,272727,single,1,05-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273cbbbad87cff1115a090ed190
+05-06-23,8,un x100to,Grupo Frontera & Bad Bunny,100,194563,single,1,17-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b273716c0b0ad51594ff788b5f06
+05-06-23,9,Pobre Corazón - En Vivo,Ke Personajes & Onda Sabanera,85,198930,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b27370bfe435a7dc698bbf0883cf
+05-06-23,10,Classy 101,Feid & Young Miko,96,195986,single,1,31-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b27329ebee2b5fb008871fcd201a
+05-06-23,11,No_se_ve.mp3,Emilia & LUDMILLA & ZECCA,82,203636,single,1,03-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b27332630fe83750d8db0b2b2d5c
+05-06-23,12,En La Intimidad | CROSSOVER #1,Big One & Emilia & Callejero Fino,85,165854,single,1,01-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bfc03d005bbc2f7e7abc889b
+05-06-23,13,DISPARA ***,Nicki Nicole,76,143935,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+05-06-23,14,Ya No Vuelvas (Versión Cuarteto),Luck Ra & La K'onga & Ke Personajes,84,204000,single,1,01-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b061c89b210b4e16bd808976
+05-06-23,15,ADIÓS,Maria Becerra,82,160856,album,12,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27377ec4341ebb8a0dbfe2df739
+05-06-23,16,WHERE SHE GOES,Bad Bunny,96,231704,single,1,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273ab5c9cd818ad6ed3e9b79cd1
+05-06-23,17,Te Cura,Fast & Furious: The Fast Saga & Maria Becerra,76,150612,single,1,17-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b2739ebb3865d33ecc6aa9582cbd
+05-06-23,18,Dale Mecha,Mesita,77,150829,single,1,02-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273419f7bb549d24a1c68bcdf93
+05-06-23,19,M.A (Mejores Amigos),BM & Phontana,83,158309,single,1,20-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b2737cdf45319edb9583efd3f1c9
+05-06-23,20,Rara Vez,Taiu & Milo j,91,128677,single,1,08-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d467bed4e6b2a01ea8569100
+05-06-23,21,Perfecta (Versión 2023),Miranda!,76,221053,album,11,19-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b2730040ea3fe369688ad9757cf2
+05-06-23,22,Yandel 150,Yandel,90,216148,album,17,13-01-23,TRUE,https://i.scdn.co/image/ab67616d0000b273b2aec01b56eeb74610532700
+05-06-23,23,Jagger.mp3,Emilia,82,155861,single,1,30-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f9695983789ee4faffba9121
+05-06-23,24,MERCHO,LiL CaKe & Migrantes,90,161451,single,1,16-12-22,FALSE,https://i.scdn.co/image/ab67616d0000b2739f1f8adb00c71daa8a9cb22c
+05-06-23,25,Si No Te Tengo / Ángel / Aquello Que Pasó,Ke Personajes,81,428438,single,1,17-08-21,FALSE,https://i.scdn.co/image/ab67616d0000b27361d8f01f54a346681218e81f
+05-06-23,26,TQG,KAROL G,96,197933,album,17,24-02-23,TRUE,https://i.scdn.co/image/ab67616d0000b27382de1ca074ae63cb18fce335
+05-06-23,27,Acróstico,Shakira,92,170785,single,1,11-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273bd6bbd68940f38c764524b63
+05-06-23,28,Costumbres - Vivo,Damas Gratis & Ke Personajes,80,133077,single,1,27-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273b726cbc446c49872d64d333d
+05-06-23,29,DISCOTEKA (feat. Locura Mix),The La Planta & BM & Alejo Isakk,77,204480,single,1,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b2736eb51112e2a1f9d520e83344
+05-06-23,30,Cupido,TINI,84,174369,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+05-06-23,31,Quiero Creer,Luck Ra & La T y La M & Rusherking,78,145054,single,1,03-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273751e3fea2ebed09f118eb99b
+05-06-23,32,Muñecas,TINI,77,156318,album,14,16-02-23,FALSE,https://i.scdn.co/image/ab67616d0000b273f5409c637b9a7244e0c0d11d
+05-06-23,33,BESO,ROSALÍA & Rauw Alejandro,96,194543,single,3,24-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734d6cf0d0d5e32ca4fa3a59e1
+05-06-23,34,Feliz Cumpleaños Ferxxo,Feid,89,155960,album,15,14-09-22,FALSE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+05-06-23,35,Luck Ra | Mission 15,Alan Gomez & Luck Ra,68,133284,single,1,17-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b2731ff540ce0b6ebd31b8c6a462
+05-06-23,36,Amanecemos,La Joaqui & Alan Gomez,77,198183,single,1,16-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b273c213ed3be7becdb1872921e9
+05-06-23,37,Normal,Feid,87,171880,album,15,14-09-22,TRUE,https://i.scdn.co/image/ab67616d0000b27373456ed697350847810e52b3
+05-06-23,38,AL BORDE,Milo j,80,148321,single,5,13-04-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d4e2dc1a0cd59790ec3f91af
+05-06-23,39,CAEN LAS ESTRELLAS,Nicki Nicole,73,145171,album,10,18-05-23,FALSE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+05-06-23,40,Te Escapas De Mis Brazos (Remix),ECKO & Callejero Fino & El Perro,77,217826,single,1,02-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2737ef4ee04cd88a4e05c08c99d
+05-06-23,41,Marisola - Remix,Cris Mj & Duki & Nicki Nicole,86,237473,single,1,15-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b27384abc8c6cf1e122113f7ab8b
+05-06-23,42,La Bachata,Manuel Turizo,87,162637,album,15,17-03-23,FALSE,https://i.scdn.co/image/ab67616d0000b2734dd99565ae6453deab7c26e1
+05-06-23,43,Hey Mor,Ozuna,91,196600,album,18,07-10-22,FALSE,https://i.scdn.co/image/ab67616d0000b273125624f2e04f5a1ccb0dfb45
+05-06-23,44,8:00 AM,Nicki Nicole,73,147603,album,10,18-05-23,TRUE,https://i.scdn.co/image/ab67616d0000b273d91a54eea72c50765e2fa72b
+05-06-23,45,Azote - Remix,Lolo OG & Callejero Fino & Alejo Isakk,75,226821,single,1,08-03-23,TRUE,https://i.scdn.co/image/ab67616d0000b2736a986d01f25447772d7f5dee
+05-06-23,46,Otro Día Más,Ke Personajes,77,202342,single,1,10-06-21,FALSE,https://i.scdn.co/image/ab67616d0000b2738192a9950670d01b9eff0fbc
+05-06-23,47,"Shakira: Bzrp Music Sessions, Vol. 53",Bizarrap & Shakira,94,214945,single,1,11-01-23,FALSE,https://i.scdn.co/image/ab67616d0000b2732b6d78c5a3f6247aa997b812
+05-06-23,48,Niña Bonita,Feid & Sean Paul,89,187653,single,1,21-04-23,FALSE,https://i.scdn.co/image/ab67616d0000b27347b049fcbcc571271cc88d9f
+05-06-23,49,Vida Gangster,Lauty Gram,81,170058,single,1,08-12-22,TRUE,https://i.scdn.co/image/ab67616d0000b2735880b7d07ee4a577e0f6ffd7
+05-06-23,50,ARRANCARMELO,WOS,80,183547,single,1,06-04-22,FALSE,https://i.scdn.co/image/ab67616d0000b273d8c9945c63f1806031dae6f0
